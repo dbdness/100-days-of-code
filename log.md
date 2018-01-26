@@ -33,3 +33,13 @@
 **Thoughts:** It seems that it is not very straightforward to check the Realm Database directly on a device. You need special third party tools to check and test the database, which I think is very silly.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
+
+### Day 5: January 26, 2018
+
+**Today's Progress**: I decided to use and implement [Stetho](https://github.com/uPhyca/stetho-realm) to test the Realm databases. 
+
+**Thoughts:** There is a problem with the versioning though. The Stetho Realm plugin haven't been updated in a while.
+
+Maybe I will just use a script that pulls the Realm DB file from the device, for later use in the Realm Browser. This may seem like a better idea. It's crazy how difficult it has to be to view a simple database file in the Realm DB framework. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
