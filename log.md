@@ -20,7 +20,7 @@
 
 ### Day 3: January 24, 2018
 
-**Today's Progress**: Very slow process today. The migration of local storage to RealmDB is more complicated than I expected.
+**Today's Progress**: Very slow progress today. The migration of local storage to RealmDB is more complicated than I expected.
 
 **Thoughts:** My app uses data types not supported by Realm, and I get null objects returned when I try to pull out an object. At the same time, I have difficulty viewing the Realm server. Will look into these problems tomorrow.
 
@@ -28,7 +28,7 @@
 
 ### Day 4: January 25, 2018
 
-**Today's Progress**: Still very slow process unfortunately. Working on viewing/debugging the Realm database.
+**Today's Progress**: Still very slow progress unfortunately. Working on viewing/debugging the Realm database.
 
 **Thoughts:** It seems that it is not very straightforward to check the Realm Database directly on a device. You need special third party tools to check and test the database, which I think is very silly.
 
@@ -41,5 +41,15 @@
 **Thoughts:** There is a problem with the versioning though. The Stetho Realm plugin haven't been updated in a while.
 
 Maybe I will just use a script that pulls the Realm DB file from the device, for later use in the Realm Browser. This may seem like a better idea. It's crazy how difficult it has to be to view a simple database file in the Realm DB framework. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
+
+### Day 6: January 27, 2018
+
+**Today's Progress**: Major process today. The main features of RealmDB now works, and full integration with my app isn't far away.
+
+**Thoughts:** I decided to ditch Stetho and all other third party apps to check my RealmDB. Turns out that in Android Studio 3.0, it's possible to view Device Storage directly from the IDE. That makes it possible to browse the application file, find the `.realm` file and download it directly to my computer, to open with Realm Studio. That makes it much easier to check the Realm data. I've tried to include a command in the Grade build file that does the downloading from the device automatically, but I've yet to see if it really works. 
+
+The only problem I'm facing now, is the custom data types located in the Shift class of my app. I use JodaTime for easy date/time manipulation, but RealmDB doesn't directly support custom types such as this. I could use the default Java Date class, but my whole application now relies on JodaTime manipulation. I have to find a way to make an adapter or something like that, so that RealmDB can store my custom class. The date from and to are very important parts of my app. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
