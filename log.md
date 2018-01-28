@@ -52,6 +52,16 @@ Maybe I will just use a script that pulls the Realm DB file from the device, for
 
 **Thoughts:** I decided to ditch Stetho and all other third party apps to check my RealmDB. Turns out that in Android Studio 3.0, it's possible to view Device Storage directly from the IDE. That makes it possible to browse the application file, find the `.realm` file and download it directly to my computer, to open with Realm Studio. That makes it much easier to check the Realm data. I've tried to include a command in the Grade build file that does the downloading from the device automatically, but I've yet to see if it really works. 
 
-The only problem I'm facing now, is the custom data types located in the Shift class of my app. I use JodaTime for easy date/time manipulation, but RealmDB doesn't directly support custom types such as this. I could use the default Java Date class, but my whole application now relies on JodaTime manipulation. I have to find a way to make an adapter or something like that, so that RealmDB can store my custom class. The date from and to are very important parts of my app. 
+The only problem I'm facing now, is the custom data types located in the Shift class of my app. I use `JodaTime` for easy date/time manipulation, but RealmDB doesn't directly support custom types such as this. I could use the default Java Date class, but my whole application now relies on JodaTime manipulation. I have to find a way to make an adapter or something like that, so that RealmDB can store my custom class. The date from and to are very important parts of my app. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
+
+### Day 7: January 28, 2018
+
+**Today's Progress**: Shifts are now also saved to the realm, and pulled from the Realm successfully.
+
+**Thoughts:** Todays coding was great. I used custom getters and setters to make my `JodaTime` objects convert to regular `Date` objects and back when saving to the Realm DB. 
+
+The swipe-to-delete now works as well. There is a problem when using the "Undo" functionality of the swipe-to-delete. I have temporarily disabled it. It's best that I get some real progress by eleminating the local serialization storage I used earlier, and not getting caught op in small features.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
