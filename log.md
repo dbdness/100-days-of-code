@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
-**NB: I am also using [WakaTime](https://wakatime.com/dashboard) to track my daily progress and coding habits.**
+**NB: I am also using [WakaTime](https://wakatime.com/dashboard) to track my daily progress and coding habits. **
+
+**Also, I am using [Trello](https://trello.com/b/0PbPvILj/min-digitale-l%C3%B8nseddel) to manage my tasks.**
 
 ### Day 1: January 22, 2018
 
