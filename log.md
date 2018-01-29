@@ -65,3 +65,11 @@ The only problem I'm facing now, is the custom data types located in the Shift c
 The swipe-to-delete now works as well. There is a problem when using the "Undo" functionality of the swipe-to-delete. I have temporarily disabled it. It's best that I get some real progress by eleminating the local serialization storage I used earlier, and not getting caught op in small features.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
+
+### Day 8: January 29, 2018
+
+**Today's Progress**: 2 out of 3 functionalities are now migrated to RealmDB in the `EditDeleteJobActivity`. 
+
+**Thoughts:** Todays coding also went well. The last functionality to Migrate to Realm, is the deletion of jobs in the `EditDeleteJobActivity` . I am hoping to finish that in tomorrows session.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
