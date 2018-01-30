@@ -73,3 +73,12 @@ The swipe-to-delete now works as well. There is a problem when using the "Undo" 
 **Thoughts:** Todays coding also went well. The last functionality to Migrate to Realm, is the deletion of jobs in the `EditDeleteJobActivity` . I am hoping to finish that in tomorrows session.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
+
+### Day 9: January 30, 2018
+
+**Today's Progress**: The DDL app's storage functionality is now fully migrated to Realm! Furthermore, fixed a bug that's been problematic for a long time. 
+
+**Thoughts:** It was easy to migrate the last few edit/delete job functionalities to Realm. I even managed to fix a bug that's been there almost from the start. This is great. 
+Next step is to fix a very important bug. It has something to do with the calculated pay after editing a job. This will be looked into tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
