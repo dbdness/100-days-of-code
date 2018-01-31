@@ -82,3 +82,11 @@ The swipe-to-delete now works as well. There is a problem when using the "Undo" 
 Next step is to fix a very important bug. It has something to do with the calculated pay after editing a job. This will be looked into tomorrow. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
+
+### Day 9: January 30, 2018
+
+**Today's Progress**: I have now isolated the logic that I need to fix the bug mentioned yesterday. 
+
+**Thoughts:** This went quick and smooth. Now I need to find a way to call the created method only when it's really needed. I will work on this tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/switch_payment_bug)
