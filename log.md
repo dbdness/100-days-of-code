@@ -83,10 +83,18 @@ Next step is to fix a very important bug. It has something to do with the calcul
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/integrate_realm)
 
-### Day 9: January 30, 2018
+### Day 10: January 31, 2018
 
 **Today's Progress**: I have now isolated the logic that I need to fix the bug mentioned yesterday. 
 
 **Thoughts:** This went quick and smooth. Now I need to find a way to call the created method only when it's really needed. I will work on this tomorrow. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/switch_payment_bug)
+
+### Day 11: February 1, 2018
+
+**Today's Progress**: The bug from yesterday is now squashed, but a new one arose instead. 
+
+**Thoughts:** Fixing of this bug went surprisingly well. Now there should be one thing less to think about, except another bug caught my eye. This one happens when you create a shift outside of the current months pay counting period. That should make the next month include that shift, but unfortunately it doesn't. I know it has something to do with my change of a list I did yesterday. I must investigate this tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
