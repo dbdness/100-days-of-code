@@ -98,3 +98,11 @@ Next step is to fix a very important bug. It has something to do with the calcul
 **Thoughts:** Fixing of this bug went surprisingly well. Now there should be one thing less to think about, except another bug caught my eye. This one happens when you create a shift outside of the current months pay counting period. That should make the next month include that shift, but unfortunately it doesn't. I know it has something to do with my change of a list I did yesterday. I must investigate this tomorrow. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 12: February 2, 2018
+
+**Today's Progress**: The sudden bug from yesterday is now squashed, and the app is more stable than ever! 
+
+**Thoughts:** After studying the method from yesterday where I knew the bug originated, I found that I've been missing an important condition in one of the conditional statements in the method. The main functionality up till now has been unstable because of that, and random bugs would occur. Now, it seems as it if runs perfectly as intended, just because I fixed that single statement. That feels great! Todays work has been merged into master and pushed to the remote repo.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
