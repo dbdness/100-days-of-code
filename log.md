@@ -106,3 +106,11 @@ Next step is to fix a very important bug. It has something to do with the calcul
 **Thoughts:** After studying the method from yesterday where I knew the bug originated, I found that I've been missing an important condition in one of the conditional statements in the method. The main functionality up till now has been unstable because of that, and random bugs would occur. Now, it seems as it if runs perfectly as intended, just because I fixed that single statement. That feels great! Todays work has been merged into master and pushed to the remote repo.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 13: February 3, 2018
+
+**Today's Progress**: I didn't have a lot of time today, so I only got to researching. But now I do know what functionality to add next. 
+
+**Thoughts:** The most pressing matters are fixed now, as two major bugs were squashed the last few days. I've now decided that it's time to implement the 'Settings' functionality in the app. The user should be able to open the settings and change things like the AM-bidrag rate, colors in the app and stuff like that. I will start implementing this tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
