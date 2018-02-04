@@ -114,3 +114,12 @@ Next step is to fix a very important bug. It has something to do with the calcul
 **Thoughts:** The most pressing matters are fixed now, as two major bugs were squashed the last few days. I've now decided that it's time to implement the 'Settings' functionality in the app. The user should be able to open the settings and change things like the AM-bidrag rate, colors in the app and stuff like that. I will start implementing this tomorrow. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 14: February 4, 2018
+
+**Today's Progress**: Time wasn't in my favor today either, but I did get to create a `preferences.xml` file and fill it up with a few settings. I will hopefully be able to implement more tomorrow 
+
+**Thoughts:** It's relatively easy to create and implement a settings activity in Android. There are a lot of nice tools available that makes the job easier. All settings are in general defined in the `preferences.xml` file, and changed values are automatically placed in `SharedPreferences` for the app to tap into when it feel like it. This shouldn't be the biggest task. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/settings)
+
