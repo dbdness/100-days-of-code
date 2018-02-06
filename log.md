@@ -130,3 +130,11 @@ Next step is to fix a very important bug. It has something to do with the calcul
 **Thoughts:** Today I had a lot of time on my hands, as opposed to the last few days. I successfully built the whole Settings appearance and made it successfully store the specified values. The built-in Preference helpers in the Android library made this a very simple task. Next up, I am going to make the changes reflect the calculations and main functionality in the app. This will be done tomorrow, and should be rather quick to implement. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/settings)
+
+### Day 16: February 6, 2018
+
+**Today's Progress**: I successfully added functionality for changing the tax rate. The change is now reflected in the apps calculations. Also, I linked my Trello board with Github, to easier track tasks. 
+
+**Thoughts:** As I expected the above mentioned functionality was quickly implemented and is now working perfectly. Tomorrow I hope to implement the functionality for the rest of the settings. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/settings)
