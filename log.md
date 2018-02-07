@@ -138,3 +138,11 @@ Next step is to fix a very important bug. It has something to do with the calcul
 **Thoughts:** As I expected the above mentioned functionality was quickly implemented and is now working perfectly. Tomorrow I hope to implement the functionality for the rest of the settings. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/settings)
+
+### Day 17: February 7, 2018
+
+**Today's Progress**: I'm almost done with the settings functionality for the pay-counting period. Unfortunately I encountered a bug in the process.
+
+**Thoughts:** I am hoping to squash said bug tomorrow, and finish the pay-counting period implementation. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/settings)
