@@ -146,3 +146,13 @@ Next step is to fix a very important bug. It has something to do with the calcul
 **Thoughts:** I am hoping to squash said bug tomorrow, and finish the pay-counting period implementation. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/settings)
+
+### Day 18: February 8, 2018
+
+**Today's Progress**: I am now done with the Settings activity. It works as intended.
+
+**Thoughts:** The bug I found yesterday was nowhere to be found today. My idea is to wait it out, and keep testing it to make sure it doesn't show itself. The last functionality to change the color of the app was postponed. It doesn't seem important to use my resources for this at the moment.
+
+Tomorrow I will start improving certain functions and looks of the app.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
