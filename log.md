@@ -156,3 +156,13 @@ Next step is to fix a very important bug. It has something to do with the calcul
 Tomorrow I will start improving certain functions and looks of the app.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 19: February 9, 2018
+
+**Today's Progress**: Not a lot of progress today. It's difficult to add certain functionality due to poor code from before Realm was implemented. 
+
+**Thoughts:** Without duplicating code, or directly writing poor code, it's difficult to implement functionality to add new jobs directly in the Edit/Delete job activity. At the moment it's done from the main activity. 
+
+Tomorrow I will try to find a way to do this optimally, or remove the function completely. Perhaps add some helper text at the bottom of the Activity to let people know how they add jobs. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/add_job_in_editDeleteJobActivity)
