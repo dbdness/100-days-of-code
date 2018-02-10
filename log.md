@@ -166,3 +166,13 @@ Tomorrow I will start improving certain functions and looks of the app.
 Tomorrow I will try to find a way to do this optimally, or remove the function completely. Perhaps add some helper text at the bottom of the Activity to let people know how they add jobs. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/add_job_in_editDeleteJobActivity)
+
+### Day 20: February 10, 2018
+
+**Today's Progress**: I found the optimal way to add the functionality for adding a job in the EditDeleteJob Activity. At the same time, I fixed some bugs related to deleting a job with attached shifts.
+
+**Thoughts:** Today was a good day. I didn't add too much boilerplate code to be able to add new jobs in the EditDeleteJob activity. The app is now also more stable, as a few bugs were fixed. 
+
+Tomorrow I will work on some minor design improvements that will make the app more comfortable to use. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
