@@ -176,3 +176,11 @@ Tomorrow I will try to find a way to do this optimally, or remove the function c
 Tomorrow I will work on some minor design improvements that will make the app more comfortable to use. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 21: February 11, 2018
+
+**Today's Progress**: 50% of the design improvements mentioned yesterday are done. 
+
+**Thoughts:** Today went well. Tomorrow I will add the last 50% and finish the task. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/minor_improvements)
