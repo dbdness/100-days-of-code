@@ -184,3 +184,19 @@ Tomorrow I will work on some minor design improvements that will make the app mo
 **Thoughts:** Today went well. Tomorrow I will add the last 50% and finish the task. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/minor_improvements)
+
+### Day 22: February 12, 2018
+
+**Today's Progress**: Due to schoolwork, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 23: February 13, 2018
+
+**Today's Progress**: 100% of the design improvements are done. 
+
+**Thoughts:** Todays task was quickly made. Tomorrow I will find out what to prioritise next.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
