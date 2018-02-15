@@ -187,7 +187,7 @@ Tomorrow I will work on some minor design improvements that will make the app mo
 
 ### Day 22: February 12, 2018
 
-**Today's Progress**: Due to schoolwork, I unfortunately didn't have time to work on my project today. 
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
 
 **Thoughts:** 
 
@@ -198,5 +198,21 @@ Tomorrow I will work on some minor design improvements that will make the app mo
 **Today's Progress**: 100% of the design improvements are done. 
 
 **Thoughts:** Todays task was quickly made. Tomorrow I will find out what to prioritise next.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 24: February 14, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 25: February 15, 2018
+
+**Today's Progress**: Bugfixes, more reliable code and improvements overall has been done today.
+
+**Thoughts:** Today was a great day with a lot of little code changes/improvements that hopefully will end up making my app work better. I've fixed a couple of nasty bugs too. Tomorrow I will work on adding a cancel-button to selected Dialogs in the app.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
