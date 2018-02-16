@@ -216,3 +216,13 @@ Tomorrow I will work on some minor design improvements that will make the app mo
 **Thoughts:** Today was a great day with a lot of little code changes/improvements that hopefully will end up making my app work better. I've fixed a couple of nasty bugs too. Tomorrow I will work on adding a cancel-button to selected Dialogs in the app.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 26: February 16, 2018
+
+**Today's Progress**: Cancel buttons on all dialogs added, and improved styling in general through the app.
+
+**Thoughts:** Today went great. I added a cancel button to all the Dialogs in the app, and improved the styling through the app quite a bit.
+
+Tomorrow I will start by prioritising a new task. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
