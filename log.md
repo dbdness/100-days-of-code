@@ -226,3 +226,13 @@ Tomorrow I will work on some minor design improvements that will make the app mo
 Tomorrow I will start by prioritising a new task. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 27: February 17, 2018
+
+**Today's Progress**: A lot of Android Lint inspection warnings are now fixed.
+
+**Thoughts:** Today I spent some time fixing some code and following the main code standard. The built-in Lint inspection tool in Android Studio pointed me in the direction of some modifications that could help my code.
+
+Tomorrow I will start by prioritising a new task. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
