@@ -236,3 +236,29 @@ Tomorrow I will start by prioritising a new task.
 Tomorrow I will start by prioritising a new task. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 28: February 18, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 29: February 19, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 30: February 20, 2018
+
+**Today's Progress**: Even more Android Lint inspection warnings are now fixed.
+
+**Thoughts:** I improved my code even more today by using the Lint inspection tool.
+
+It's going to be hard to find the time to code for the next few days, but next time I am going to focus on testing. Mainly developing a test plan with test cases, followed by Unit tests. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
