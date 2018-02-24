@@ -262,3 +262,37 @@ Tomorrow I will start by prioritising a new task.
 It's going to be hard to find the time to code for the next few days, but next time I am going to focus on testing. Mainly developing a test plan with test cases, followed by Unit tests. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 31: February 21, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 32: February 22, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 33: February 23, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 34: February 14, 2018
+
+**Today's Progress**: More lint corrections done today, and also I've changed the app launcher name to be shorter, so it doesn't get cut off. 
+
+**Thoughts:** Slow day with some more lint corrections and smaller changes, like the icon name. I've been very busy with schoolwork in the last period, so I really hope to pick up the pace again with this project in the next few days. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
+
+### 
