@@ -287,11 +287,19 @@ It's going to be hard to find the time to code for the next few days, but next t
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
 
-### Day 34: February 14, 2018
+### Day 34: February 24, 2018
 
 **Today's Progress**: More lint corrections done today, and also I've changed the app launcher name to be shorter, so it doesn't get cut off. 
 
 **Thoughts:** Slow day with some more lint corrections and smaller changes, like the icon name. I've been very busy with schoolwork in the last period, so I really hope to pick up the pace again with this project in the next few days. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
+
+### Day 35: February 25, 2018
+
+**Today's Progress**: Code improvements and added labor market contribution tax in the pay calculation.
+
+**Thoughts:** Today went well. The mentioned improvements were added rather quickly. Tomorrow I will start researching how to properly test the application thoroughly. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
 
