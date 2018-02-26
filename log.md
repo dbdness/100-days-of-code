@@ -303,4 +303,10 @@ It's going to be hard to find the time to code for the next few days, but next t
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
 
-### 
+###Day 36: February 26, 2018
+
+**Today's Progress**: Thorough Android testing research and the first few Unit Tests are written.
+
+**Thoughts:** Today I started by researching the best way to test my Android application. There are several different kinds of tests you can do. Unit testing, UI testing etc. My idea is to start by creating small unit tests that can run automatically and notify me if changes in code break the functionality. I've written the first few tests, and they pass correctly. My concerns are that right now my MainActivity holds way too much functionality logic nested in private methods throughout the class. If I should have any hopes of Unit testing these private methods, maybe I should split them up logically, and make them accessible package-wide so they can be tested properly. Tomorrow I am going to research a little, and find out if this is the best approach. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
