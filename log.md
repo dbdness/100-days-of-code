@@ -301,7 +301,7 @@ It's going to be hard to find the time to code for the next few days, but next t
 
 **Thoughts:** Today went well. The mentioned improvements were added rather quickly. Tomorrow I will start researching how to properly test the application thoroughly. 
 
-**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
 
 ###Day 36: February 26, 2018
 
@@ -309,4 +309,14 @@ It's going to be hard to find the time to code for the next few days, but next t
 
 **Thoughts:** Today I started by researching the best way to test my Android application. There are several different kinds of tests you can do. Unit testing, UI testing etc. My idea is to start by creating small unit tests that can run automatically and notify me if changes in code break the functionality. I've written the first few tests, and they pass correctly. My concerns are that right now my MainActivity holds way too much functionality logic nested in private methods throughout the class. If I should have any hopes of Unit testing these private methods, maybe I should split them up logically, and make them accessible package-wide so they can be tested properly. Tomorrow I am going to research a little, and find out if this is the best approach. 
 
-**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/lint_improvements)
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 37: February 27, 2018
+
+**Today's Progress**: More test research. I realise now that the best idea in my project is to use the Android Espresso testing framework.
+
+**Thoughts:** With the Espresso framework I can combine Unit tests with UI tests, to make sure that button clicks do what they are supposed to do, and that the correct elements show up on the screen.
+
+I will dive deeper into this kind of testing tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
