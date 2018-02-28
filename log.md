@@ -319,4 +319,12 @@ It's going to be hard to find the time to code for the next few days, but next t
 
 I will dive deeper into this kind of testing tomorrow. 
 
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 38: February 28, 2018
+
+**Today's Progress**: More test research and a few more espresso tests. 
+
+**Thoughts:** Tomorrow I will research how to properly organize my code, so that it can be Unit tested properly as well. 
+
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
