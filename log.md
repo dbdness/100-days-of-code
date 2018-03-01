@@ -328,3 +328,11 @@ I will dive deeper into this kind of testing tomorrow.
 **Thoughts:** Tomorrow I will research how to properly organize my code, so that it can be Unit tested properly as well. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 39: March 1, 2018
+
+**Today's Progress**: Bugfix and more test research. 
+
+**Thoughts:** I fixed a bug that's been nagging me for a while, so that's nice. Tomorrow I will keep researching proper code structure.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
