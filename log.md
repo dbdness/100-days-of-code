@@ -333,6 +333,21 @@ I will dive deeper into this kind of testing tomorrow.
 
 **Today's Progress**: Bugfix and more test research. 
 
-**Thoughts:** I fixed a bug that's been nagging me for a while, so that's nice. Tomorrow I will keep researching proper code structure.
+**Thoughts:** I fixed a bug that's been nagging me for a while, so that's nice. Tomorrow I will keep researching proper code structure. [Here](https://developer.android.com/topic/libraries/architecture/guide.html), for example.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 40: March 2, 2018
+
+**Today's Progress**: Coding architecture research. I am getting closer to a decision of using MVP (Model-View-Presenter) in my app.
+
+**Thoughts:** Idea for the basic app architecture (without the remote data source entity):
+
+![app_arch](https://github.com/googlesamples/android-architecture/wiki/images/mvp.png)
+
+[This](https://developer.android.com/topic/libraries/architecture/guide.html) basic architecture guide was a good read, [this](https://github.com/googlesamples/android-architecture/tree/todo-mvp/) sample project by Google is a very good reference on how to properly structure code. I am going to be studying this project further in order to improve my code. I know it's a lot of work to restructure my entire application in order to fit a certain architecture. I should have done it to begin with, but I was too eager to start coding back then. The process of restructuring my application is very important, as it will make it far more testable and maintainable. This is still just a hobby project, but it's also a very valuable learning tool. At the same time I would like to release this app to the AppStore, and if I want to have any hopes of a satisfied (if any) user base, then my app should be properly coded and tested. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+
+
