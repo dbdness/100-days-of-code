@@ -349,5 +349,19 @@ I will dive deeper into this kind of testing tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
 
+### Day 41: March 3, 2018
 
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 42: March 4, 2018
+
+**Today's Progress**: More architecture research today, and I've started by categorizing classes and resources into folders. 
+
+**Thoughts:** I've decided to go for MVP, but without the extensive use of interfaces. Interfaces are generally smart to use, due to polymorphism. For example, it's much easier to create mock objects when using an interface. If you have the correct implementation vs. the test implementation with fake data, an interface can be useful. However in my case, I don't have any heavy dependencies, and the RealmDB runs only local storage (for now). An interface is luckily easy to create, so I can create one later if there is use for it. For now, while I'm getting used to the MVP architecture, I would rather make sure that my code is as de-cluttered as possible. I will start by creating Presenter classes and moving code tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
 
