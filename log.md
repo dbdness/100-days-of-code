@@ -365,3 +365,13 @@ I will dive deeper into this kind of testing tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
 
+### Day 43: March 5, 2018
+
+**Today's Progress**: More Google MVP blueprint research today, and I've created interfaces and logic for the Realm local data sources.
+
+**Thoughts:** I thought that it was a good idea to start isolating and specifying the RealmDB logic. It's accessed from basically anywhere in the application, so no matter where I start, I need to be able to handle the DB objects. 
+
+Tomorrow I will implement the MVP pattern in the first app category. I think I'm going to start small, so that I get used to the pattern. I might get too confused if I start with the MainActivity (containing the most logic).
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+
