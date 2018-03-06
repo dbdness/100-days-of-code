@@ -375,3 +375,12 @@ Tomorrow I will implement the MVP pattern in the first app category. I think I'm
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
 
+### Day 44: March 6, 2018
+
+**Today's Progress**: Today went really well. I've successfully implemented the MVP architecture on the AddNewJob functionality, and the functionality works!
+
+**Thoughts:** After implementing with MVP, I can really begin to see where this pattern shines. Loose coupling, testability and code maintenance is so much simpler when using this pattern.
+
+Tomorrow I will make sure that the AddNewJob is completely functioning with MVP, and afterwards (if I have time for it) implement the MVP architecture on another functionality. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_editdeletejob)
