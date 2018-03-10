@@ -1,5 +1,3 @@
-
-
 # 100 Days Of Code - Log
 
 **NB: I am also using [WakaTime](https://wakatime.com/dashboard) to track my daily progress and coding habits. **
@@ -387,10 +385,34 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_editdeletejob)
 
-### Day 44: March 6, 2018
+### Day 45: March 7, 2018
 
 **Today's Progress**: The functionality in AddNewJob is now fully MVP. 
 
-**Thoughts:** Tomorrow I will work on using MVP in the EditJob functionality. 
+**Thoughts:** Tomorrow I will work on adding MVP to the EditJob functionality. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_editdeletejob)
+
+### Day 46: March 8, 2018
+
+**Today's Progress**: The functionality in EditJob is now fully MVP. 
+
+**Thoughts:** Tomorrow I will work on adding MVP to the last functionality in the EditDeleteJob logic. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_editdeletejob)
+
+### Day 47: March 9, 2018
+
+**Today's Progress**: Due to work, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_editdeletejob)
+
+### Day 48: March 10, 2018
+
+**Today's Progress**: Today I tested all the functionality in the EditDeleteJobs section of my app after it was all converted to MVP. It works even better than it did before, and the code is much more clean, testable and rid of as many dependencies as possible.
+
+**Thoughts:** Tomorrow I will converting the MainActivty to MVP. This is the big one, so it's going to take some time. Fortunately, I've learned a lot by converting the lesser functionality first. Hopefully this one won't be too painful.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
