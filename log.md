@@ -429,6 +429,14 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 
 **Today's Progress**: Today went well, and the AddShift functionality is now fully following the MVP pattern.
 
-**Thoughts:** Tomorrow It's the big one - I will create interfaces and possibly implementations for all the functionality in the MainActivity.
+**Thoughts:** Tomorrow It's the big one - I will create interfaces and possibly some implementations for all the functionality in the MainActivity.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+
+### Day 50: March 13, 2018
+
+**Today's Progress**: I've started creating methods in the interface for the Main activity.
+
+**Thoughts:** More methods will come eventually and while I replace the code, but tomorrow I am going to start implementing the methods.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
