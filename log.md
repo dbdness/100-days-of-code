@@ -440,3 +440,19 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 **Thoughts:** More methods will come eventually and while I replace the code, but tomorrow I am going to start implementing the methods.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+
+### Day 51: March 14, 2018
+
+**Today's Progress**: I've started the main presenter implementation.
+
+**Thoughts:** Hopefully I will finish this tomorrow so I can start replacing the local methods in the MainActivity.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+
+### Day 52: March 15, 2018
+
+**Today's Progress**: Both the View and Presenter interfaces for the Main functioanlity are now implemented.  
+
+**Thoughts:** I've also started by slowly replacing a couple of methods in the MainActivity. Hopefully I can finish this tomorrow, and solve the bugs that may arise. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
