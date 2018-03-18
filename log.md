@@ -425,7 +425,7 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
 
-### Day 49: March 12, 2018
+### Day 50: March 12, 2018
 
 **Today's Progress**: Today went well, and the AddShift functionality is now fully following the MVP pattern.
 
@@ -433,26 +433,50 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
 
-### Day 50: March 13, 2018
+### Day 51: March 13, 2018
 
 **Today's Progress**: I've started creating methods in the interface for the Main activity.
 
 **Thoughts:** More methods will come eventually and while I replace the code, but tomorrow I am going to start implementing the methods.
 
-**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
 
-### Day 51: March 14, 2018
+### Day 52: March 14, 2018
 
 **Today's Progress**: I've started the main presenter implementation.
 
 **Thoughts:** Hopefully I will finish this tomorrow so I can start replacing the local methods in the MainActivity.
 
-**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
 
-### Day 52: March 15, 2018
+### Day 53: March 15, 2018
 
 **Today's Progress**: Both the View and Presenter interfaces for the Main functioanlity are now implemented.  
 
 **Thoughts:** I've also started by slowly replacing a couple of methods in the MainActivity. Hopefully I can finish this tomorrow, and solve the bugs that may arise. 
 
-**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
+
+### Day 54: March 16, 2018
+
+**Today's Progress**: A few more methods are replaced and confirmed working fine.
+
+**Thoughts:** Will continue replacing methods tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
+
+### Day 55: March 17, 2018
+
+**Today's Progress**: Much of the functionality works, but I've encountered a bug I need to fix.
+
+**Thoughts:** Hopefully this can be done tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
+
+### Day 56: March 18, 2018
+
+**Today's Progress**: I've solved the bug from yesterday and now almost all of the functionality works! 
+
+**Thoughts:** Tomorrow (and maybe a bit later today) I will continue to test the functionality thoroughly, and also improve the MVP and code where I see fit. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
