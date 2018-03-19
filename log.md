@@ -480,3 +480,11 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 **Thoughts:** Tomorrow (and maybe a bit later today) I will continue to test the functionality thoroughly, and also improve the MVP and code where I see fit. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
+
+### Day 57: March 19, 2018
+
+**Today's Progress**: More bugfixes and changes to the MVP structure. It's going really well.
+
+**Thoughts:** Tomorrow I will delete all the out-commented redundant code and further improve the MVP on the main functionality where it can be improved. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
