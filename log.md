@@ -488,3 +488,13 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 **Thoughts:** Tomorrow I will delete all the out-commented redundant code and further improve the MVP on the main functionality where it can be improved. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_mainactivity)
+
+### Day 58: March 20, 2018
+
+**Today's Progress**: Main functionality is now fully MVP!
+
+**Thoughts:** It took a while, but the main functionality is now also made MVP. The whole application feels smoother and better overall at the same time. No dependencies where they aren't needed, and much cleaner, testable code.
+
+Tomorrow I will begin with the last thing that has to be made MVP - the settings functionality. That shouldn't take long. Afterwards, the whole application is built up on MVP. Then I can get along to the next functionality needed.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
