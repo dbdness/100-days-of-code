@@ -498,3 +498,13 @@ Tomorrow I will make sure that the AddNewJob is completely functioning with MVP,
 Tomorrow I will begin with the last thing that has to be made MVP - the settings functionality. That shouldn't take long. Afterwards, the whole application is built up on MVP. Then I can get along to the next functionality needed.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup)
+
+### Day 59: March 21, 2018
+
+**Today's Progress**: Settings functionality is now fully MVP!
+
+**Thoughts:** The main Settings functionality is now MVP. There are some places where I simply think it's overkill to convert to MVP for the time being. I would rather focus on new functionality and fixes. When I need to further develop more functionality into the settings section, then perhaps I can continue from a MVP standpoint. 
+
+Tomorrow I will start out by checking my Trello Board and prioritising a task. Maybe I will start out by converting the Trello list to Issues on Github instead. We'll see. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_settings)
