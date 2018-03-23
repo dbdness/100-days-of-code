@@ -508,3 +508,19 @@ Tomorrow I will begin with the last thing that has to be made MVP - the settings
 Tomorrow I will start out by checking my Trello Board and prioritising a task. Maybe I will start out by converting the Trello list to Issues on Github instead. We'll see. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/mvp_setup_settings)
+
+### Day 60: March 22, 2018
+
+**Today's Progress**: Today I've implemented an About-page in the app.
+
+**Thoughts:** I've used a library that works really well. It allows one to create beautiful About-pages with just a couple of object creations. Tomorrow I will prioritise and new task and start with that.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 61: March 23, 2018
+
+**Today's Progress**: Minor, but significant improvements today. I've fixed a couple ToDos in the code, and most importantly I've fixed all app icons to crisper, clearer icons on all device sizes.
+
+**Thoughts:** Android has a built-in studio for creating materialised icons of own choice. It works really well, and it has made sure that every icon inside the application is crystal clear according to the Google standards. It all looks a lot better now.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
