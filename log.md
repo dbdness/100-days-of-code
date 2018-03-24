@@ -524,3 +524,13 @@ Tomorrow I will start out by checking my Trello Board and prioritising a task. M
 **Thoughts:** Android has a built-in studio for creating materialised icons of own choice. It works really well, and it has made sure that every icon inside the application is crystal clear according to the Google standards. It all looks a lot better now.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 62: March 24, 2018
+
+**Today's Progress**: I've set a maximum and minimum year on the DatePickerDialogs when you add a Shift. Will test and merge tomorrow.
+
+**Thoughts:** It doesn't make sense for the user to be able to enter Shifts for another year than the present one. I've fixed the ability to do that. 
+
+Tomorrow I will test and merge the code and prioritise a new task. Thorough testing will most likely be the next task.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
