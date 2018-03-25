@@ -534,3 +534,11 @@ Tomorrow I will start out by checking my Trello Board and prioritising a task. M
 Tomorrow I will test and merge the code and prioritise a new task. Thorough testing will most likely be the next task.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 63: March 25, 2018
+
+**Today's Progress**: The maximum and minimum dates on the DatePickers are now live, but I've encountered a problem with my pay counting period algorithm. I am going to try to solve this tomorrow. 
+
+**Thoughts:**
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
