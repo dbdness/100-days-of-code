@@ -542,3 +542,11 @@ Tomorrow I will test and merge the code and prioritise a new task. Thorough test
 **Thoughts:**
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 64: March 26, 2018
+
+**Today's Progress**: I've finally fixed the bug mentioned yesterday.
+
+**Thoughts:** Tomorrow I will start by prioritising a new task.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
