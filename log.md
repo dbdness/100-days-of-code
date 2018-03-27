@@ -550,3 +550,11 @@ Tomorrow I will test and merge the code and prioritise a new task. Thorough test
 **Thoughts:** Tomorrow I will start by prioritising a new task.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 65: March 27, 2018
+
+**Today's Progress**: I've decided to fix the relative sizes and relations between the main View objects. They need to be set correct, so that every individual screen size supports the app.
+
+**Thoughts:** I will continue working on this tomorrow.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
