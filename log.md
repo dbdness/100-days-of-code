@@ -558,3 +558,19 @@ Tomorrow I will test and merge the code and prioritise a new task. Thorough test
 **Thoughts:** I will continue working on this tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 66: March 28, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 67: March 29, 2018
+
+**Today's Progress**: I've made a quick fix to the RecyclerView scroll and implemented better MVP implementation for some OnDismiss handlers in the code.
+
+**Thoughts:** Will start a new task tomorrow.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
