@@ -574,3 +574,13 @@ Tomorrow I will test and merge the code and prioritise a new task. Thorough test
 **Thoughts:** Will start a new task tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 68: March 30, 2018
+
+**Today's Progress**: I've now started unit testing!
+
+**Thoughts:** The tests work really well and have already helped improving my production code. I am mocking the external dependencies so that the tests are thorough. It's great!
+
+Tomorrow I will also test as much as I possibly can.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
