@@ -584,3 +584,13 @@ Tomorrow I will test and merge the code and prioritise a new task. Thorough test
 Tomorrow I will also test as much as I possibly can.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 69: March 31, 2018
+
+**Today's Progress**: More code improvements and stability added due to testing.
+
+**Thoughts:** More and more ideas towards better code and more constraints are being added to my code. Testing my code thoroughly generates new ideas, it's great.
+
+Testing will continue tomorrow.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
