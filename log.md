@@ -594,3 +594,19 @@ Tomorrow I will also test as much as I possibly can.
 Testing will continue tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 70: April 1, 2018
+
+**Today's Progress**: Due to social plans, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 71: April 2, 2018
+
+**Today's Progress**: One more Presenter class is now fully unit tested.
+
+**Thoughts:** I will continue testing the next Presenter class tomorrow.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
