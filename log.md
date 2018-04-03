@@ -610,3 +610,11 @@ Testing will continue tomorrow.
 **Thoughts:** I will continue testing the next Presenter class tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 72: April 2, 2018
+
+**Today's Progress**: One more Presenter class is now fully unit tested, and I've started testing the MainPresenter class.
+
+**Thoughts:** The MainPresenter is the biggest one, so I didn't get to test it fully today. I will continue testing it tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
