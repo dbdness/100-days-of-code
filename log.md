@@ -611,10 +611,22 @@ Testing will continue tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
 
-### Day 72: April 2, 2018
+### Day 72: April 3, 2018
 
 **Today's Progress**: One more Presenter class is now fully unit tested, and I've started testing the MainPresenter class.
 
 **Thoughts:** The MainPresenter is the biggest one, so I didn't get to test it fully today. I will continue testing it tomorrow. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 73: April 4, 2018
+
+**Today's Progress**: More tests added to the MainPresenter class. Only a couple remaining. 
+
+**Thoughts:** I also realised that the MainPresenter class isn't the last one to unit test - I accidentally skipped EditDeleteJobPresenter, although testing that shouldn't take long.
+
+Also I've rearranged the Trello board and learned a bit more about testing Android applications. Right now I am making small tests (Unit tests). That's what 70% of tests should be. 20% is medium tests (implementation tests) and 10% should be large tests (UI test with Espresso, for example). 
+
+I am going to do all these kinds of tests after finishing the unit tests. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
