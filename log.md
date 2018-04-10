@@ -630,3 +630,58 @@ Also I've rearranged the Trello board and learned a bit more about testing Andro
 I am going to do all these kinds of tests after finishing the unit tests. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 74: April 5, 2018
+
+**Today's Progress**: Due to illness, I unfortunately wasn't able to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 75: April 6, 2018
+
+**Today's Progress**: Due to illness, I unfortunately wasn't able to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 76: April 7, 2018
+
+**Today's Progress**: Due to social plans, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 77: April 8, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 78: April 9, 2018
+
+**Today's Progress**: Due to studying, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 80: April 10, 2018
+
+**Today's Progress**: It has been way to long away from my project due to illness and social plans, but now I'm back! All tests are now completed and passed in the MainPresenterTest. 
+
+**Thoughts:** The code coverage is a little off (by about 14%). I think I will fix this tomorrow, before moving on to testing the last Presenter.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+
+
+
+
+
+
