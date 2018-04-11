@@ -671,7 +671,7 @@ I am going to do all these kinds of tests after finishing the unit tests.
 
 **Link to work:**
 
-### Day 80: April 10, 2018
+### Day 79: April 10, 2018
 
 **Today's Progress**: It has been way to long away from my project due to illness and social plans, but now I'm back! All tests are now completed and passed in the MainPresenterTest. 
 
@@ -679,9 +679,10 @@ I am going to do all these kinds of tests after finishing the unit tests.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
 
+### Day 80: April 11, 2018
 
+**Today's Progress**: The MainPresenter is now about ~98% tested, and I think that will do. 
 
+**Thoughts:** The last 2% doesn't cover any essential code. I've started testing the EditDeleteJobPresenter. That shouldn't take long. I expect to finish that tomorrow. 
 
-
-
-
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
