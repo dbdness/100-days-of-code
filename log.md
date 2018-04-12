@@ -686,3 +686,16 @@ I am going to do all these kinds of tests after finishing the unit tests.
 **Thoughts:** The last 2% doesn't cover any essential code. I've started testing the EditDeleteJobPresenter. That shouldn't take long. I expect to finish that tomorrow. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 81: April 12, 2018
+
+**Today's Progress**: The EditDeleteJobPresenter is now fully tested, and that concludes (first part) Unit testing! 
+
+**Thoughts:** It's done! All the Presenters are now fully tested and passed successfully. Look at the image below. It looks very nice. 
+
+Tomorrow I am going to research the Google sample MVP app to check if there are any kinds of tests I missed, before I start UI testing with Espresso.
+
+![image-20180412211136169](/var/folders/h_/h4hn40pd7vjdf7r9y1q3szym0000gn/T/abnerworks.Typora/image-20180412211136169.png)
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
