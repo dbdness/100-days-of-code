@@ -699,3 +699,11 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
 
+### Day 82: April 13, 2018
+
+**Today's Progress**: I successfully tested the "Add Shift" functionality with Espresso.
+
+**Thoughts:** Espresso works really well, and it easy to learn. It's got a lot of great matchers and actions to perform on Views. Tomorrow I probably won't have time to test, as I have a wedding to attend. But the day after tomorrow I will test Intent-functionality and the "Add Job" functionalities.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/ui_testing)
+
