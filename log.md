@@ -707,3 +707,26 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/ui_testing)
 
+### Day 83: April 14, 2018
+
+**Today's Progress**: Due to social plans, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 84: April 15, 2018
+
+**Today's Progress**: Due to social plans, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 85: April 16, 2018
+
+**Today's Progress**: I successfully tested the "Edit Job" functionality with Espresso.
+
+**Thoughts:** More UI tests tomorrow.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/ui_testing)
