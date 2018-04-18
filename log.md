@@ -730,3 +730,19 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** More UI tests tomorrow.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/ui_testing)
+
+### Day 86: April 17, 2018
+
+**Today's Progress**: Struggling a little bit to find a specific View with Espresso. Will continue tomorrow.
+
+**Thoughts:** 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/ui_testing)
+
+### Day 87: April 18, 2018
+
+**Today's Progress**: I managed to fix the problem from yesterday, and now I've successfully tested both "Delete Job" and "Add new Job" functionality with Espresso.
+
+**Thoughts:** Tomorrow I will unit test the Settings functionality, as I missed that before moving on to UI tests. After that, I think I'm done with testing for now! Then I can move on to the last pieces of functionality before publishing the app.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
