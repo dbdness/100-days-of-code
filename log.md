@@ -746,3 +746,11 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** Tomorrow I will unit test the Settings functionality, as I missed that before moving on to UI tests. After that, I think I'm done with testing for now! Then I can move on to the last pieces of functionality before publishing the app.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 88: April 19, 2018
+
+**Today's Progress**: I've now successfully unit tested 1 out of 2 Settings cases.
+
+**Thoughts:** The second case is causing a few problems when testing. Tomorrow I will hopefully solve it.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
