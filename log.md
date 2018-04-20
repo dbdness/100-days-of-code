@@ -754,3 +754,11 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** The second case is causing a few problems when testing. Tomorrow I will hopefully solve it.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/unit_testing)
+
+### Day 89: April 20, 2018
+
+**Today's Progress**: I've now successfully unit tested all Settings cases.
+
+**Thoughts:** Tomorrow it's time to prioritise a new task! Only 11 days to go with the coding challenge. I realise now that I won't be able to get the app completely ready for release before being done, but that's okay. Maybe I am going to start the challenge again. I am definitely going to keep working on the DDL app! 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
