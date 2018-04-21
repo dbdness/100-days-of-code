@@ -762,3 +762,11 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** Tomorrow it's time to prioritise a new task! Only 11 days to go with the coding challenge. I realise now that I won't be able to get the app completely ready for release before being done, but that's okay. Maybe I am going to start the challenge again. I am definitely going to keep working on the DDL app! 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 90: April 21, 2018
+
+**Today's Progress**: I've added a small fix successfully today.
+
+**Thoughts:** Tomorrow I think I am going to start designing the "extra pay rate" function. I want it to be done right, but I am also eager to implement it, so that the app can go live. We'll find out what happens. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
