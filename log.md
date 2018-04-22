@@ -770,3 +770,11 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** Tomorrow I think I am going to start designing the "extra pay rate" function. I want it to be done right, but I am also eager to implement it, so that the app can go live. We'll find out what happens. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/master)
+
+### Day 91: April 22, 2018
+
+**Today's Progress**: I've decided that the extra rates are default and the specific hourly wage can be configured through settings. That is the simplest and cleanest way to do it.
+
+**Thoughts:** I've set up the PreferenceScreen. Tomorrow I will start developing the functionality.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
