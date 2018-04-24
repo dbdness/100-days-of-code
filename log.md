@@ -778,3 +778,19 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** I've set up the PreferenceScreen. Tomorrow I will start developing the functionality.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
+
+### Day 92: April 23, 2018
+
+**Today's Progress**: Due to homework, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work**:
+
+### Day 93: April 24, 2018
+
+**Today's Progress**: I've now designed the Add Shift layout so that it also contains a Checkbox and a Spinner for the upcoming extra rates functionality.
+
+**Thoughts:** Tomorrow I will add the default values to the Spinner and start working on the extra rate functionality. 
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
