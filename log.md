@@ -794,3 +794,11 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** Tomorrow I will add the default values to the Spinner and start working on the extra rate functionality. 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
+
+### Day 94: April 25, 2018
+
+**Today's Progress**: Today I've added event handlers and extra styling to the new Checkbox and Spinner.
+
+**Thoughts:** Tomorrow I will hopefully start adding the functionality for choosing extra rates.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
