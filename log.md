@@ -802,3 +802,30 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 **Thoughts:** Tomorrow I will hopefully start adding the functionality for choosing extra rates.
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
+
+### Day 95: April 26, 2018
+
+**Today's Progress**: Due to social plans, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work**:
+
+### Day 96: April 27, 2018
+
+**Today's Progress**: Due to social plans, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work**:
+
+### Day 97: April 28, 2018
+
+**Today's Progress**: Today I realised that I rushed into the extra rates functionality too quickly. Some unexpected problems arose when doing it the way I started doing. I decided to redesign the extra rates functionality, and now I'm on the right track. I've prepared the Views today.
+
+**Thoughts:** Tomorrow I will hopefully start adding the functionality for choosing extra rates when adding a shift.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
+
+### 
+
