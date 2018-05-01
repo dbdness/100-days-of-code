@@ -1,4 +1,8 @@
+
+
 # 100 Days Of Code - Log
+
+Author: Danny Nielsen.
 
 **NB: I am also using [WakaTime](https://wakatime.com/dashboard) to track my daily progress and coding habits. **
 
@@ -827,5 +831,36 @@ Tomorrow I am going to research the Google sample MVP app to check if there are 
 
 **Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
 
-### 
+###Day 98: April 29, 2018
 
+**Today's Progress**: Due to homework, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work**:
+
+### Day 99: April 30, 2018
+
+**Today's Progress**: Due to homework, I unfortunately didn't have time to work on my project today. 
+
+**Thoughts:** 
+
+**Link to work**:
+
+### Day 100: May 1, 2018
+
+**Today's Progress**: Well, the challenge is officially over. Where did the 100 days go? Today I added EventHandlers for the extra rate Spinner and EditText and started implementing the set-functionality.
+
+**Thoughts:** This has been a great challenge. I've never thought that I could work so intensely and focused on a side-project while maintaining my studies and social life. I will have to admit that there are several times (especially recently due to exams closing in) that I've had to skip a day of coding. About ~20 times I'd guess. I know that it technically makes it the "80 days of code challenge" instead. Under normal circumstances I would extend this challenge with about 20 days until I've reached 100, but I can't put that much time aside in the next while due to exams. 
+
+Perhaps afterwards I am going to start the challenge over and try again.
+
+If we look at the process of my project, quite amazing things have happened: I started off by migrating the data storage from flimsy plain-text storage to robust Realm storage. I completely re-organised all my code to follow the MVP pattern for increased readability, performance, testability and extendability. I've also successfully tested all the code - both Unit tests and also Espresso UI tests. On top of that, I've made the app really robust. It's been a long time since my app has crashed. I've also added a load of improvement to the app, like a Settings page and revised design. I've never been closer to Play Store release than I am now. 
+
+Even though the challenge is over, I am still going to be working on my app as much as I can. I've been massively inspired by this challenge, and now I really want my app to hit production!
+
+Thank you for this great challenge.
+
+~ Danny.
+
+**Link to work:** [Den Digitale Lønseddel](https://github.com/dbdness/DDL/tree/extra_rates)
